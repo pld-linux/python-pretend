@@ -6,13 +6,13 @@
 Summary:	A library for stubbing in Python 2
 Summary(pl.UTF-8):	Biblioteka do tworzenia zaślepek w Pythonie 2
 Name:		python-pretend
-Version:	1.0.8
-Release:	3
+Version:	1.0.9
+Release:	1
 License:	BSD
 Group:		Development/Languages/Python
-#Source0Download: https://pypi.python.org/simple/pretend/
-Source0:	https://pypi.python.org/packages/source/p/pretend/pretend-%{version}.tar.gz
-# Source0-md5:	7147050a95c9f494248557b42b58ad79
+#Source0Download: https://pypi.org/simple/pretend/
+Source0:	https://files.pythonhosted.org/packages/source/p/pretend/pretend-%{version}.tar.gz
+# Source0-md5:	ad53883ede48aeac7ae584f0de0240e8
 URL:		https://github.com/alex/pretend
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
