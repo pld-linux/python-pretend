@@ -7,7 +7,7 @@ Summary:	A library for stubbing in Python 2
 Summary(pl.UTF-8):	Biblioteka do tworzenia zaślepek w Pythonie 2
 Name:		python-pretend
 Version:	1.0.9
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.org/simple/pretend/
